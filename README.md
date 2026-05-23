@@ -46,6 +46,7 @@ Reporting & Analytics
 | Azure Synapse Analytics | Data warehousing |
 | SQL Server | Gold layer views & stored procedures |
 | Azure Logic Apps | Automated pipeline failure alerts |
+| Power BI | Data visualization & reporting dashboards |
 | Git & GitHub | Version control |
 
 ---
@@ -81,6 +82,7 @@ azure-data-engineer-motorcycle-project/
 ### ✅ Data Serving (Gold Layer)
 - Created **8+ SQL views and stored procedures** in SQL Server
 - Loaded transformed data into **Silver and Gold layers** (Medallion Architecture)
+- Connected **Power BI** to SQL Server Gold layer for reporting dashboards
 - Data ready for reporting and business analytics
 
 ### ✅ Monitoring & Automation
